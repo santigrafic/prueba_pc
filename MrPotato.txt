@@ -1,0 +1,4 @@
+"Cabeza"
+"Piernas"
+"Nariz"
+"Bigote"
